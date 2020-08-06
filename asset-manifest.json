@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tutorial-todo-app/static/css/main.502cdf70.chunk.css",
+    "main.js": "/tutorial-todo-app/static/js/main.7b1370e4.chunk.js",
+    "main.js.map": "/tutorial-todo-app/static/js/main.7b1370e4.chunk.js.map",
+    "runtime-main.js": "/tutorial-todo-app/static/js/runtime-main.0d4117b1.js",
+    "runtime-main.js.map": "/tutorial-todo-app/static/js/runtime-main.0d4117b1.js.map",
+    "static/js/2.c468dc1b.chunk.js": "/tutorial-todo-app/static/js/2.c468dc1b.chunk.js",
+    "static/js/2.c468dc1b.chunk.js.map": "/tutorial-todo-app/static/js/2.c468dc1b.chunk.js.map",
+    "index.html": "/tutorial-todo-app/index.html",
+    "precache-manifest.f001c7301ae1baac4df9f46ef0d31e54.js": "/tutorial-todo-app/precache-manifest.f001c7301ae1baac4df9f46ef0d31e54.js",
+    "service-worker.js": "/tutorial-todo-app/service-worker.js",
+    "static/css/main.502cdf70.chunk.css.map": "/tutorial-todo-app/static/css/main.502cdf70.chunk.css.map",
+    "static/js/2.c468dc1b.chunk.js.LICENSE.txt": "/tutorial-todo-app/static/js/2.c468dc1b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d4117b1.js",
+    "static/js/2.c468dc1b.chunk.js",
+    "static/css/main.502cdf70.chunk.css",
+    "static/js/main.7b1370e4.chunk.js"
+  ]
+}
